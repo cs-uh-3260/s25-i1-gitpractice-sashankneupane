@@ -5,3 +5,7 @@ A simple project to particle a few git/github workflows as instructed in [instru
 
 ## Assignment Author
 Sashank Neupane
+
+## Pull Request
+
+I forked Fuad's [repo](https://github.com/cs-uh-3260/s25-i1-gitpractice-thabitfuad). Here's a link to the merged [pull request](https://github.com/cs-uh-3260/s25-i1-gitpractice-thabitfuad/pull/2).
