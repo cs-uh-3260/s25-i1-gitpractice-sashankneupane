@@ -11,3 +11,7 @@ From starting with a single C# project to eventually mastering Java, Spring Fram
 ## Proof Reading
 
 Article checked for typos
+
+## Pull Request
+
+I forked Fuad's [repo](https://github.com/cs-uh-3260/s25-i1-gitpractice-thabitfuad). Here's a link to the merged [pull request](https://github.com/cs-uh-3260/s25-i1-gitpractice-thabitfuad/pull/2).
