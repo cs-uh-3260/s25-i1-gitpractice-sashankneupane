@@ -5,6 +5,3 @@ A simple project to particle a few git/github workflows as instructed in [instru
 
 ## Assignment Author
 Sashank Neupane
-
-## Proof Reading
-Article checked for typos
