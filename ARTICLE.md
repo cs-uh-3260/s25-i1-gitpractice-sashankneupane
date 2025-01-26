@@ -11,3 +11,7 @@ From starting with a single C# project to eventually mastering Java, Spring Fram
 ## Proof Reading
 
 Article checked for typos
+
+## Matthias' Comment
+
+I was impressed by the author's work ethic and dedication, especially in regards to how they tirelessly worked towards improving all while facing countless rejected applications. The structuring of the article made it a very enjoyable read too.
