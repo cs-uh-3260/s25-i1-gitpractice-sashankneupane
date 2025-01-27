@@ -15,3 +15,7 @@ Article checked for typos
 ## Matthias' Comment
 
 I was impressed by the author's work ethic and dedication, especially in regards to how they tirelessly worked towards improving all while facing countless rejected applications. The structuring of the article made it a very enjoyable read too.
+
+## Comment by Junyong Moon
+
+I appreciate the energy and enthusiasm of the writer! The article not only inspires courage in readers but also offers practical approaches and mindsets for the learning journey. Reading it helped ease my anxiety about my computer science career and provided a clear guide for my career journey.
