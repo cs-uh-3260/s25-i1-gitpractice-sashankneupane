@@ -19,3 +19,7 @@ I was impressed by the author's work ethic and dedication, especially in regards
 ## Comment by Junyong Moon
 
 I appreciate the energy and enthusiasm of the writer! The article not only inspires courage in readers but also offers practical approaches and mindsets for the learning journey. Reading it helped ease my anxiety about my computer science career and provided a clear guide for my career journey.
+
+## Faizan's Comment
+This was such a relatable and inspiring read! I loved how the author shared their ups and downs so honestly - it’s a great reminder that persistence really pays off. The tips on mentorship and building real-world projects were super helpful too!
+
